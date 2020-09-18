@@ -31,6 +31,10 @@ After that, close and re-open all of your Terminal emulators to enable the comma
 # Usage
 You can change keyboard layout between those two at any time by opening a Terminal and typing the ``dvorak`` and ``qwerty`` commands, now. You MAY WISH to copy these the first time, and use them from your bash *history* (up-arrows+enter), instead, so that your keyboard layout can be changed without pressing any layout-specific keys.
 
+# UPDATE: Want to switch layouts using this script with an easy keyboard shortcut?
+Check out the following repo if you'd like to be able to do what this script does, but bound to a key-combo too!- 
+https://gitlab.com/Novimatrem/dvorak-qwerty-switch-keybind
+
 # Demonstration GIF
 ![Demonstration GIF](https://gitlab.com/Novimatrem/dvorak-qwerty-switch-aliases/-/raw/master/demonstration.gif)
 
